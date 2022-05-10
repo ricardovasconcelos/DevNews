@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://coders-news-eight.vercel.app/">View Demo</a>
+  <a href="https://dev-news-one.vercel.app/">View Demo</a>
 </p>
 
 <p align="center">
@@ -39,6 +39,12 @@ This project was created in Coders Week Headless Challenge, with the following t
 - [AWS](https://aws.amazon.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Tailwind](https://tailwindcss.com/)
+
+
+## 🔥: How to Run
+
+- Create your .env file based on .env.sample
+- Get your api key from  <a href="https://www.contentful.com/">Contentful</a> and set on env file
 
 ## :memo: License
 
