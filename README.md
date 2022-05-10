@@ -1,8 +1,10 @@
-<h1 align="center">
-  <img src="https://i.ibb.co/LCb231x/logo.png" width="200">
-  <br>
-  Dev News
+  <h1 align="center">
+    Dev News
 </h1>
+
+<p align="center">
+<img src="https://i.ibb.co/0CzLXcF/Captura-de-Tela-2022-05-09-a-s-20-52-12.png">
+</p>
 
 <p align="center">
   <a href="https://coders-news-eight.vercel.app/">View Demo</a>
@@ -25,7 +27,6 @@
   <a href="#rocket-technologies">Technologies</a> | <a href="#memo-license">License</a>
 </p>
 
-<img src="https://i.ibb.co/dDwQ33w/Screen-Shot-2022-05-04-at-18-16-59.png">
 
 ## :rocket: Technologies
 
